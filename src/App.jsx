@@ -7,7 +7,7 @@ import Header from "./components/Header";
 // level code.
 const settings = {
   apiKey: import.meta.env.VITE_REACT_APP_ALCHEMY_API_KEY,
-  network: Network.ETH_MAINNET,
+  network: Network.ETH_SEPOLIA,
 };
 
 // In this week's lessons we used ethers.js. Here we are using the
